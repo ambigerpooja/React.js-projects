@@ -1,0 +1,24 @@
+.content
+{
+    
+     margin: auto;
+     margin-top:-20px;
+     border: 1px solid;
+     border-left: 10px;
+}
+
+.foot
+{
+    border:1px solid;
+    margin: auto;
+    background-color: pink;
+    font-family: cursive;
+    padding-top:-500px;
+
+}
+.head
+{
+    border:1px solid;
+    margin:auto;
+    margin-bottom: 1px;
+}
